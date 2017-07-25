@@ -1,2 +1,2 @@
 # fileUpload
-file upload server by python socket
+file upload/download server by python socket
